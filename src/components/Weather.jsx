@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import weatherBanner from "../assets/weatherBanner.jpeg";
 import { useDispatch, useSelector } from "react-redux";
 import { Cloud, Search } from "lucide-react";

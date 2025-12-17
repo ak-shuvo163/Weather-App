@@ -1,4 +1,4 @@
-import React from "react";
+// React import not required with the automatic JSX runtime
 import { Cloud, CloudRain, CloudSun, Thermometer, Wind } from "lucide-react";
 
 const WeatherCard = ({ city, temp, description, humidity, wind, icon }) => {
